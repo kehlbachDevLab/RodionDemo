@@ -1,0 +1,9 @@
+Demo License
+
+Copyright (c) 2025 Rodion Kehlbach
+
+This project is provided solely for demonstration purposes.  
+Viewing the source code is allowed.  
+Copying, modifying, distributing, or using this code in whole or in part, in any form, for commercial or non-commercial purposes, is strictly prohibited without prior written permission from the author.  
+
+All rights reserved.
